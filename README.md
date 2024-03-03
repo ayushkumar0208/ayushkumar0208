@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Ayush Kumar</h2>
+<h3 align="center">Hi, I'm Ayush Kumar</h3>
 
 <!--
 **ayushkumar0208/ayushkumar0208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
