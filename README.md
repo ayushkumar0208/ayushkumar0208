@@ -1,5 +1,5 @@
 <p>
-<img src="https://media3.giphy.com/media/yH84SLHFbeJd4FoGyN/giphy.gif?cid=6c09b952ry8plhqeqsv64mztmpqn3ey08ns6ua3mqtuzrqwd&ep=v1_stickers_related&rid=giphy.gif&ct=ts" width=80/>
+<img src="https://media3.giphy.com/media/yH84SLHFbeJd4FoGyN/giphy.gif?cid=6c09b952ry8plhqeqsv64mztmpqn3ey08ns6ua3mqtuzrqwd&ep=v1_stickers_related&rid=giphy.gif&ct=ts" width=70px/>
 <p align="center">I'm Ayush Kumar<p>
 </p>
 <h3 align="center">Coding Enthusiast | Full Stack Developer (MERN Stack)</h3>
