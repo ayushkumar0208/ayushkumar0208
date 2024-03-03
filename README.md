@@ -21,8 +21,9 @@
 <h3 align="center">Coding Profiles</h3>
 <p>
 
-| <img src="Leetcode.png"/>| <h3>LeetCode</h3><br/><p>- Solved 750+ Data Structures and Algorithm Problems.</p><br><p>- LeetCode Contest Highest Rating: 1611.</p> |
-| ------------- |:-----------------------------------------------------------------------------------------------:|
+| <img src="Leetcode.png"/> |   <h3>LeetCode</h3><br/><p>- Solved 750+ Data Structures and Algorithm Problems.</p><br><p>- LeetCode Contest Highest Rating: 1611.</p>    |
+|---------------------------|:------------------------------------------------------------------------------------------------------------------------------------------:|
+| <img src="gfg.png"/>      | <h3>GeeksForGeeks</h3><br/><p>- Solved 290+ Data Structures and Algorithm Problems.</p><br><p>- Institution Rank 250 @GeeksForGeeks.</p> |
 
 </p>
 <!--
