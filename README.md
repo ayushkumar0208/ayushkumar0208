@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+<style>
+    * {
+        background-color: lightblue; /* Change the background color here */
+    }
+</style>
 <!--
 **ayushkumar0208/ayushkumar0208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
