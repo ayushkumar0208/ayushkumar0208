@@ -27,12 +27,13 @@
 
 </p>
 
-<h3>Links</h3>
-<p>
+<h3 align="center">Links</h3>
+<p align="center">
 <a target="_blank" href="https://leetcode.com/ayushkumar0208/"><img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" width=40px></a>
 <a target="_blank" href="https://auth.geeksforgeeks.org/user/aryaayush0208"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20210201164726/gfg-300x300.png" width=40px></a>
 <a target="_blank" href="https://www.linkedin.com/in/ayush-kumar-4b311b1b9/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" width=40px></a>
 </p>
+<p align="center">Know more about me at <a href="https://ayushkumar-coder.vercel.app/">ayushkumar-coder.vercel.app</a></p>
 <!--
 **ayushkumar0208/ayushkumar0208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
