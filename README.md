@@ -5,6 +5,8 @@
 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width=50px/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width=40px/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Python_logo_51.svg" width=50px/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1200px-HTML5_Badge.svg.png" width=45px/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1200px-CSS3_logo.svg.png" width=45px/>
 <img src="https://logosdownload.com/logo/javascript-logo-big.png" width=40px/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width=50px/>
 <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" width=50px/>
