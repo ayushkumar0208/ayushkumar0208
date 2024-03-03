@@ -2,7 +2,9 @@
 <h6 align="center">Coding Enthusiast | Full Stack Developer (MERN Stack)</h6>
 
 ### Skills:
-![java]("https://cdn-icons-png.flaticon.com/512/226/226777.png")
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width=50px/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width=40px/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Python_logo_51.svg" width=50px/>
 <!--
 **ayushkumar0208/ayushkumar0208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
