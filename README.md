@@ -1,7 +1,5 @@
-<p>
+
 <img src="Heading.gif" width=70px/>
-<p align="center">I'm Ayush Kumar<p>
-</p>
 <h3 align="center">Coding Enthusiast | Full Stack Developer (MERN Stack)</h3>
 <hr>
 <h3 align="center">Skills</h3>
