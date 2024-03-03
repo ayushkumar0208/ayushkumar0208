@@ -1,5 +1,4 @@
-
-<img src="Heading.gif" width=70px/>
+<img top=0 src="head.gif"/>
 <h3 align="center">Coding Enthusiast | Full Stack Developer (MERN Stack)</h3>
 <hr>
 <h3 align="center">Skills</h3>
