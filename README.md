@@ -1,5 +1,8 @@
 <h3 align="center">Hi, I'm Ayush Kumar</h3>
+<h6 align="center">Coding Enthusiast | Full Stack Developer (MERN Stack)</h6>
 
+### Skills:
+![java]("https://cdn-icons-png.flaticon.com/512/226/226777.png")
 <!--
 **ayushkumar0208/ayushkumar0208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
