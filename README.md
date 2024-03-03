@@ -17,6 +17,14 @@
 <img src="https://media.licdn.com/dms/image/D4D12AQEmC2CSTK0unw/article-cover_image-shrink_600_2000/0/1691964348159?e=2147483647&v=beta&t=UA2DD5lAEDP28NHD9BRZIoriUAdwNxY8P465qku8lNY" width=60px/>
 <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png" width=65px/>
 </p>
+
+<h3 align="center">Coding Profiles</h3>
+<p>
+
+| <img src="Leetcode.png"/>| <h3>LeetCode</h3><br/><p>- Solved 750+ Data Structures and Algorithm Problems.</p><br><p>- LeetCode Contest Highest Rating: 1611.</p> |
+| ------------- |:-----------------------------------------------------------------------------------------------:|
+
+</p>
 <!--
 **ayushkumar0208/ayushkumar0208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
