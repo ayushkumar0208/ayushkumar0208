@@ -15,6 +15,9 @@
 <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width=50px/>
 <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" width=50px/>
 <img src="https://media.licdn.com/dms/image/D4D12AQEmC2CSTK0unw/article-cover_image-shrink_600_2000/0/1691964348159?e=2147483647&v=beta&t=UA2DD5lAEDP28NHD9BRZIoriUAdwNxY8P465qku8lNY" width=60px/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" width=50px/>
+<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width=50px/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width=40px/>
 <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png" width=65px/>
 </p>
 
@@ -31,7 +34,7 @@
 <p align="center">
 <a target="_blank" href="https://leetcode.com/ayushkumar0208/"><img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" width=40px></a>
 <a target="_blank" href="https://auth.geeksforgeeks.org/user/aryaayush0208"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20210201164726/gfg-300x300.png" width=40px></a>
-<a target="_blank" href="https://www.linkedin.com/in/ayush-kumar-4b311b1b9/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" width=40px></a>
+<a target="_blank" href="https://www.linkedin.com/in/ayushkumar0208/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" width=40px></a>
 </p>
 <p align="center">Know more about me at <a href="https://ayushkumar-coder.vercel.app/">ayushkumar-coder.vercel.app</a></p>
 <!--
