@@ -31,10 +31,9 @@
 Name       : Ayush Kumar
 Role       : Frontend Engineer @ TCS (Passport PSP v2.0)
 Location   : Noida, Uttar Pradesh, India
-Education  : B.E. Computer Science — Chandigarh University (CGPA: 7.85)
-LeetCode   : Top 12% | Highest Rank: 1714 | 960+ Problems Solved
+Education  : B.E. Computer Science — Chandigarh University 
+LeetCode   : Top 12% | Highest Rank: 1714 | 1k+ Problems Solved
 GFG        : Institution Rank < 130 | 460+ Problems Solved
-Total DSA  : 1420+ Problems Solved Across All Platforms
 Passion    : Problem Solving, Full Stack Dev, AI/ML
 Portfolio  : ayushkumararya.vercel.app
 ```
