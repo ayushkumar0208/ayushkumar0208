@@ -35,7 +35,7 @@ Education  : B.E. Computer Science — Chandigarh University
 LeetCode   : Top 12% | Highest Rank: 1714 | 1k+ Problems Solved
 GFG        : Institution Rank < 130 | 460+ Problems Solved
 Passion    : Problem Solving, Full Stack Dev, AI/ML
-Portfolio  : ayushkumararya.vercel.app
+Portfolio  : ayushbuilds.co.in
 ```
 
 - 🚀 Building **Passport Seva Project V2.0** for Ministry of External Affairs @ TCS
